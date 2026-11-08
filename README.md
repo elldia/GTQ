@@ -9,6 +9,7 @@
 * [GTQ(그래픽기술자격) 공식 사이트 바로가기](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectGtqinfomg.do)
 * [연습+시험자료 다운로드](https://drive.google.com/file/d/1b496_7K5k4FDznU7wgFHifLlqqz4xUT3/view?usp=sharing)
 * [포토샵 기초 연습자료 다운로드](https://drive.google.com/file/d/18IOQ87XGr8h5S-p2lV67PwTlh7k17UoE/view?usp=drive_link)
+* [GTQ 자격증 취득 준비 설문조사](https://forms.gle/RoJnAvS7773rDv5c8)
 
 요즘은 AI가 그림을 뚝딱 만들어 줍니다. 그런데 막상 써 보면 손가락이 이상하거나, 글자가 깨지거나, 배경이 어색한 경우가 많습니다.
 결국 마지막 손질은 사람이 포토샵으로 합니다. 그래서 포토샵 기본기는 AI 시대에도 여전히 필요합니다.
