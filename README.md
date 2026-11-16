@@ -4,9 +4,8 @@
 * [GTQ 자격증 취득 준비 설문조사](https://forms.gle/RoJnAvS7773rDv5c8)
 * [GTQ 공식사이트 바로가기](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectGtqinfomg.do)
 * [GTQ-Ai 공식사이트 바로가기](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectGtqai.do)
-* 
+---
 * **[GTQ+GTQ-Ai 수업자료.zip](https://drive.google.com/file/d/1b496_7K5k4FDznU7wgFHifLlqqz4xUT3/view?usp=sharing)**
-
 * [유나쌤 블로그](https://webty.tistory.com/notice/151)
 * [유나쌤 유튜브](https://www.youtube.com/channel/UChfcUNsM20UbvKrYaydBNqA)
 
